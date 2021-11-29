@@ -1,0 +1,10 @@
+node_modules/
+ai1wm-backups/
+.vscode
+.htaccess
+*.DS_Store
+uploads/
+
+# ignore log files and databases
+*.log
+
