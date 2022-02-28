@@ -1,2 +1,2 @@
 # davidherbold
-wp intall for davidherbold.com
+wp install for davidherbold.com
